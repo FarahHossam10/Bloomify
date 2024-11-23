@@ -12,5 +12,5 @@ Team:
   
 ---
 
-Checkout out our presentation [here][1] 
-[1]:https://www.canva.com/design/DAGT9IVG_F0/RrGkpuxGvtaat2wHeXbaqw/edit?utm_content=DAGT9IVG_F0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Checkout out our presentation [here]
+(https://www.canva.com/design/DAGT9IVG_F0/RrGkpuxGvtaat2wHeXbaqw/edit?utm_content=DAGT9IVG_F0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
