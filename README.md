@@ -1,5 +1,5 @@
 ## Bloomify
-    Bloomify is our final project for the Digital Egypt Pioneers Initiative (DEPI)
+    Bloomify is our final project for the Digital Egypt Pioneers Initiative (DEPI) built using React.js
     Bloomify is a skincare guide that takes the user from finding their skin type
     to finding the exact products that are suitable for them.
 
